@@ -24,6 +24,10 @@
             android:id="@+id/nav_webViewFragment"
             android:icon="@android:drawable/ic_menu_more"
             android:title="webViewFragment"/>
+        <item
+            android:id="@+id/fragment_practice4"
+            android:icon="@android:drawable/btn_star"
+            android:title="Practice4"/>
 
     </group>
 </menu>
