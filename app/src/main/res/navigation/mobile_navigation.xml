@@ -37,4 +37,19 @@
         android:name="com.mirea.pershinadv.mireaproject.Fragment_practice4"
         android:label="fragment_practice4"
         tools:layout="@layout/fragment_practice4" />
+    <fragment
+        android:id="@+id/fragment_compass"
+        android:name="com.mirea.pershinadv.mireaproject.Compass"
+        android:label="fragment_compass"
+        tools:layout="@layout/fragment_compass" />
+    <fragment
+        android:id="@+id/fragment_camera"
+        android:name="com.mirea.pershinadv.mireaproject.Camera"
+        android:label="fragment_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/fragment_microphone"
+        android:name="com.mirea.pershinadv.mireaproject.Microphone"
+        android:label="fragment_microphone"
+        tools:layout="@layout/fragment_microphone" />
 </navigation>

@@ -28,6 +28,18 @@
             android:id="@+id/fragment_practice4"
             android:icon="@android:drawable/btn_star"
             android:title="Practice4"/>
+        <item
+            android:id="@+id/fragment_compass"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="Compass" />
+        <item
+            android:id="@+id/fragment_camera"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/fragment_microphone"
+            android:icon="@android:drawable/ic_btn_speak_now"
+            android:title="Microphone" />
 
     </group>
 </menu>
