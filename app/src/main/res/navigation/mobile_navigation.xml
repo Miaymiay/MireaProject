@@ -52,4 +52,14 @@
         android:name="com.mirea.pershinadv.mireaproject.Microphone"
         android:label="fragment_microphone"
         tools:layout="@layout/fragment_microphone" />
+    <fragment
+        android:id="@+id/fragment_profile"
+        android:name="com.mirea.pershinadv.mireaproject.Profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/fragment_work_with_file"
+        android:name="com.mirea.pershinadv.mireaproject.WorkWithFile"
+        android:label="fragment_work_with_file"
+        tools:layout="@layout/fragment_work_with_file" />
 </navigation>

@@ -40,6 +40,14 @@
             android:id="@+id/fragment_microphone"
             android:icon="@android:drawable/ic_btn_speak_now"
             android:title="Microphone" />
+        <item
+            android:id="@+id/fragment_profile"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Ptofile" />
+        <item
+            android:id="@+id/fragment_work_with_file"
+            android:icon="@android:drawable/ic_menu_save"
+            android:title="Work with file" />
 
     </group>
 </menu>
