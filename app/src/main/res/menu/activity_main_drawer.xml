@@ -48,6 +48,10 @@
             android:id="@+id/fragment_work_with_file"
             android:icon="@android:drawable/ic_menu_save"
             android:title="Work with file" />
+        <item
+            android:id="@+id/fragment_network_inf"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Network information" />
 
     </group>
 </menu>
