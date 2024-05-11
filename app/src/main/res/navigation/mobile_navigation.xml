@@ -67,4 +67,9 @@
         android:name="com.mirea.pershinadv.mireaproject.NetworkInf"
         android:label="fragment_network_inf"
         tools:layout="@layout/fragment_network_inf" />
+    <fragment
+        android:id="@+id/fragment_establishments"
+        android:name="com.mirea.pershinadv.mireaproject.Establishments"
+        android:label="fragment_establishments"
+        tools:layout="@layout/fragment_establishments" />
 </navigation>

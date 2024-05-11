@@ -52,6 +52,10 @@
             android:id="@+id/fragment_network_inf"
             android:icon="@android:drawable/ic_dialog_info"
             android:title="Network information" />
+        <item
+            android:id="@+id/fragment_establishments"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Establishments" />
 
     </group>
 </menu>
